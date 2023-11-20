@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/styles.css">
+    <title>Todo list</title>
+</head>
+<body>
+<header>
+    <div class="container">
+        <div class="header">
+            <h1 class="header__header-text">TODO LIST</h1>
+            <form class ="header__form">
+                <label for="input-text-name"> Task Name</label>
+                <input maxlength="20" type="text" class ="header__input-text-name header__input js-input-taskname" id="input-text-name">
+
+                <label for="input-text-description"> Task Description </label>
+                <textarea maxlength="150" class ="header__input-text-description header__input js-input-taskdescription" id="input-text-description"></textarea>
+                <button class ="button header__btn js-btn-createtask"> Create Task </button>
+            </form>
+
+        </div>
+    </div>
+</header>
+
+<section>
+    <div class="container">
+        <div class="tasks js-tasks">
+<!--            <div class="tasks__task">-->
+<!--                <div class="tasks__task-thumbnail-wrapper">-->
+<!--                    <img src="assets/images/target.png" class="tasks__task-thumbnail">-->
+<!--                </div>-->
+
+<!--                <div class="tasks__task-name-wrapper">-->
+<!--                    <h2 class="tasks__task-name"> Feed the cat </h2>-->
+<!--                </div>-->
+
+<!--                <div class="tasks__task-description-wrapper">-->
+<!--                    <p class="tasks__task-description"> The cat is hungry, feed the cat. If you don't feed the cat, the cat will die. Don't let the-->
+<!--                        cat die. </p>-->
+<!--                </div>-->
+
+<!--                <div class="tasks__task-createdat-wrapper">-->
+<!--                    <p class="tasks__task-createdat"> 20.11.2023</p>-->
+<!--                </div>-->
+
+<!--                <div class="row-buttons">-->
+<!--                    <button class="button row-buttons-button">Edit</button>-->
+
+<!--                    <button class="button row-buttons-button">Delete</button>-->
+<!--                </div>-->
+
+<!--            </div>-->
+        </div>
+    </div>
+</section>
+<script src="/scripts.js"></script>
+</body>
+</html>
