@@ -2,8 +2,8 @@
   "tasks": [
     {
       "thumbnail": "assets/images/basketball.png",
-      "name": "Play basketball",
-      "description": "I need to play some basketball. ",
+      "name": "Play ",
+      "description": "I need to play some basketball.",
       "createdat": "07/12/2022, 1:00:10 PM",
       "id": 636297600000
     },
@@ -16,7 +16,7 @@
     },
     {
       "thumbnail": "assets/images/book.png",
-      "name": "Read a book",
+      "name": "Read a book soon",
       "description": "It has been a long time, I wan't to read a book again",
       "createdat": "11/19/2023, 2:23:38 PM",
       "id": 662697600000
