@@ -2,7 +2,7 @@
   "tasks": [
     {
       "thumbnail": "assets/images/basketball.png",
-      "name": "Play ",
+      "name": "Play",
       "description": "I need to play some basketball.",
       "createdat": "07/12/2022, 1:00:10 PM",
       "id": 636297600000
@@ -27,13 +27,6 @@
       "description": "Feed the cat or the cat will die, simple right?",
       "createdat": "11/10/2002, 2:23:38 PM",
       "id": 665697600000
-    },
-    {
-      "thumbnail": "assets/images/target.png",
-      "name": "I need to do stuff",
-      "description": "Stuff needs to get done today\n",
-      "createdat": "11/23/2023, 6:25:08 PM",
-      "id": 1700756708432
     }
   ]
 }

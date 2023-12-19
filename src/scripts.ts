@@ -34,7 +34,7 @@ const populateHTMLElementEvents = () => {
         event.preventDefault();
 
         const newTask: Task = {
-            thumbnail: "assets/images/target.png",
+            thumbnail: "assets/images/cat.png",
             name: inputTaskName.value,
             description: inputTaskDescription.value,
             createdat: getCurrentDate(),
